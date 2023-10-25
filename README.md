@@ -18,13 +18,8 @@ Effective pricing strategies are essential for retail businesses. Price optimiza
 ## Features
 
 The dataset used in this project includes various features, such as:
-- Product attributes (e.g., category, brand, size)
-- Historical pricing data
-- Market demand
-- Competitor prices
-- Economic indicators
-
-These features are used to predict the optimal price for retail products.
+- Product attributes (e.g., category,id,qty and etc.)
+- Unit price 
 
 ## Models
 
