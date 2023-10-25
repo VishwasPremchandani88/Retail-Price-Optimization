@@ -2,15 +2,6 @@
 
 This project focuses on retail price optimization, aiming to determine the most suitable pricing strategies for products in a retail environment. We leverage various machine learning models, including k-Nearest Neighbors (KNN), Linear Regression, and Random Forest, to find the most effective pricing approach.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Models](#models)
-- [Best Model](#best-model)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Effective pricing strategies are essential for retail businesses. Price optimization involves finding the ideal balance between maximizing profit and maintaining customer satisfaction. This project explores different machine learning models to determine the most suitable pricing strategies.
@@ -19,7 +10,23 @@ Effective pricing strategies are essential for retail businesses. Price optimiza
 
 The dataset used in this project includes various features, such as:
 - Product attributes (e.g., category,id,qty and etc.)
-- Unit price 
+- Unit price
+
+  ## Dependencies
+
+To run this project, you will need the following dependencies:
+
+- Python 3.6+
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook (for running notebooks)
+- Additional libraries as needed for data preprocessing and model evaluation
+
+You can install these dependencies using `pip` with the following command:
+
+pip install -r requirements.txt
 
 ## Models
 
