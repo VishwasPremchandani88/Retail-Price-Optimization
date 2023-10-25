@@ -27,7 +27,11 @@ To run this project, you will need the following dependencies:
 You can install these dependencies using `pip` with the following command:
 
 pip install -r requirements.txt
+## Clone
 
+To clone this repository to your local machine, use the following command:
+
+git clone (https://github.com/VishwasPremchandani88/Retail-Price-Optimization.git)
 ## Models
 
 We have experimented with several machine learning models, including:
